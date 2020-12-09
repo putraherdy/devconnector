@@ -4,7 +4,7 @@
 
 It is a small social network app that includes authentication, profiles and forum posts.
 
-# Quick Start
+# Start
 
 ### Add a default.json file in config folder with the following
 

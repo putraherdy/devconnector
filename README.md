@@ -53,6 +53,10 @@ NODE_ENV=production node server.js
 
 Check in browser on [http://localhost:5000/](http://localhost:5000/)
 
+### Link to DevConnector app
+
+[http://devconnector-herdy.herokuapp.com/] (http://devconnector-herdy.herokuapp.com/) 
+
 
 ## App Info
 
